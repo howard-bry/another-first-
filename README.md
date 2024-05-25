@@ -26,7 +26,7 @@
 2. Consectetuer adipiscing elit
 3. Sed diam nonummy nibh euismod
 
-### PROCEDURE
+### <pre>PROCEDURE<code>
 
 1. Lorem ipsum dolor sit amet
 2. Consectetuer adipiscing elit
