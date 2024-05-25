@@ -20,7 +20,7 @@
 ## Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat,
 ## vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan.
 
-### MATERIALS
+### <pre>MATERIALS<code>
 
 1. Lorem ipsum dolor sit amet
 2. Consectetuer adipiscing elit
